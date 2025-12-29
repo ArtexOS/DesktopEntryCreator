@@ -1,0 +1,23 @@
+{
+  "prompts": {
+    "name": "Enter Application Name:",
+    "exec_path": "Enter Executable Path:",
+    "icon_path": "Enter Icon Path:",
+    "category": "Enter Category:"
+  },
+  "labels": {
+    "name": "Name",
+    "exec_path": "Executable Path",
+    "icon_path": "Icon Path",
+    "category": "Category"
+  },
+  "errors": {
+    "input_empty": "Input error or empty value!",
+    "file_not_found": "File %s does not exist",
+    "home_dir": "Could not find home directory",
+    "write_file": "Failed to write file"
+  },
+  "messages": {
+    "success": "File %s was successfully created at %s"
+  }
+}
